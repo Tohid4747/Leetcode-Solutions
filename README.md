@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Tohid4747/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tohid4747/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tohid4747/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Tohid4747/Leetcode-Solutions/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Tohid4747/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
