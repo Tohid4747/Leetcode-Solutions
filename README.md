@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tohid4747/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tohid4747/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Tohid4747/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Tohid4747/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tohid4747/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Tohid4747/Leetcode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
