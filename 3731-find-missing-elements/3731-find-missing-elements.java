@@ -1,24 +1,25 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
+        ArrayList<Integer> list = new ArrayList<>();
         Arrays.sort(nums);
+        int min = nums[0];
+        int max = nums[nums.length-1];
+        int j;
 
-        List<Integer> ans = new ArrayList<>();
-
-        int cur = nums[0];
-
-        for (int i = 0; i < nums.length; i++) {
-            // Add all missing numbers before nums[i]
-            while (cur < nums[i]) {
-                ans.add(cur);
-                cur++;
+        for (int i =min ; i <= max; i++) {
+                boolean found =false;
+            for ( j = 0; j < nums.length; j++) {
+                      if(nums[j]==i){
+                           found=true;
+                           break;
+                      }
             }
-
-            // Skip duplicate numbers
-            if (nums[i] == cur) {
-                cur++;
-            }
+          if(!found){
+            list.add(i);
+          }
         }
+        return list;
 
-        return ans;
-    }
+
+}
 }
